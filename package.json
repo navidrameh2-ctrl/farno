@@ -1,8 +1,9 @@
 {
   "name": "farno-worker",
   "version": "1.0.0",
+  "private": true,
   "type": "module",
   "dependencies": {
-    "telegram": "^2.26.22"
+    "teleproto": "^1.229.0"
   }
 }
